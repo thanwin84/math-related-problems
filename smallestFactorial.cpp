@@ -1,4 +1,5 @@
 //formula is: floor(x/5) + floor(x/25)+......
+//video link: https://youtu.be/wkvVdggCSeo
 #include <bits/stdc++.h>
 using namespace std;
 class Solution
