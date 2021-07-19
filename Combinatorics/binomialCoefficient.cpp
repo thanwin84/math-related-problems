@@ -58,7 +58,7 @@ public:
 		return dp[n][r];
 	}
 };
-//space optimized solution
+// O(k) space solution
 #define mod 1000000007
 using namespace std;
 int dp[801];
